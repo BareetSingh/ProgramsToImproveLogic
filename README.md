@@ -1,6 +1,6 @@
-# ProgramsToImproveLogic in Java
-Programs to improve logic set1, mentioned on Instagram Post
-In this we are posting all the program which are mentioned on Instagram Posts, on Our [Instgram Page](https://www.instagram.com/coding_master_0001/).
+# Programs to improve logic, in Java
+
+In this repositiry we are posting all the program which are mentioned on Instagram Posts, on Our [Instgram Page](https://www.instagram.com/coding_master_0001/).
 
 First Set has following Programs 
 ---
