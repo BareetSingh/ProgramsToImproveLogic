@@ -15,7 +15,8 @@ In this repositiry we are posting all the program which are mentioned on Instagr
 
 ---
 
-3rd Set has following Programs 
+3rd Set has following Programs
+---
 ![image](https://user-images.githubusercontent.com/49482233/226172857-6a200471-1735-4f89-b666-948ce9a086f5.png)
 ![image](https://user-images.githubusercontent.com/49482233/226172864-180ac7de-1eaa-46f3-884c-2159faad4831.png)
 
